@@ -14,6 +14,8 @@ macOS Mojave 已经发布，快来使用这款适用于深色界面的深色搜�
 
 ## macOS 版本
 
+![sogou.png](https://github.com/nightwind93/DeepSilence-II/raw/master/sogou.png)
+
 [下载](https://github.com/nightwind93/DeepSilence-II/raw/master/New_DeepSilence.mssf)
 
 ## Windows 版本
